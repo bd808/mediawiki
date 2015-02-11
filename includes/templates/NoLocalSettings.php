@@ -287,17 +287,6 @@ if ( !function_exists( 'session_name' ) ) {
   }
   </script>
   <link rel="stylesheet" href="/../css/main.min.css" />
-
-  
-  	<script type="text/javascript" src="https://cdn-cf.mywot.net/files/js/35b1a55a1635259f6088710a2109cecd.js"></script>	
-	
-	<script type="text/javascript">
-		var wot_tooltip_options = {
-			linkbase: "https://www.mywot.com/scorecard/"
-		};
-    </script>	
-
-	    <script type="text/javascript" src="https://api.mywot.com/widgets/ratings.js"></script>
   
 </head>
 <body>
