@@ -104,9 +104,9 @@ if ( !function_exists( 'session_name' ) ) {
   <script>
     var annyangScript = document.createElement('script');
     if (/index.php/.exec(window.location)) {
-      annyangScript.src = "/../js/annyang.js"
+      annyangScript.src = "https://www.jehovahsays.net/js/annyang.js"
     } else {
-      annyangScript.src = "/../js/annyang.min.js"
+      annyangScript.src = "https://www.jehovahsays.net/js/annyang.min.js"
     }
     document.write(annyangScript.outerHTML)
   </script>
@@ -286,7 +286,7 @@ if ( !function_exists( 'session_name' ) ) {
     }, speed || 1000);
   }
   </script>
-  <link rel="stylesheet" href="/../css/main.min.css" />
+  <link rel="stylesheet" href="https://www.jehovahsays.net/css/main.min.css" />
   
 </head>
 <body>
